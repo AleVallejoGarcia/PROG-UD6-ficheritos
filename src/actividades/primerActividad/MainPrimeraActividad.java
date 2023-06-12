@@ -1,4 +1,3 @@
-package actividades.primerActividad;
 import java.io.Console;
 import java.io.FileWriter;
 
