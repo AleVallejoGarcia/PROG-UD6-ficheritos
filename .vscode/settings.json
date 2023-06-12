@@ -1,5 +1,9 @@
 {
-  "java.project.sourcePaths": ["src/actividades/segundaActividad"],
+  "java.project.sourcePaths": [
+    "src/actividades/segundaActividad",
+    "src/actividades/primerActividad",
+    "src/actividades/terceraActividad"
+  ],
   "java.project.outputPath": "bin",
   "java.project.referencedLibraries": ["lib/**/*.jar"]
 }
